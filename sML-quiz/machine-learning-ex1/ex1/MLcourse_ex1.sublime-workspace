@@ -1,0 +1,369 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"formatter"
+			],
+			[
+				"new",
+				"new_element"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"No",
+				"None"
+			],
+			[
+				"document",
+				"document_words"
+			],
+			[
+				"F",
+				"FreqDist"
+			],
+			[
+				"word",
+				"wordlist"
+			],
+			[
+				"words",
+				"words"
+			],
+			[
+				"pos",
+				"pos_tweets"
+			],
+			[
+				"w",
+				"words"
+			],
+			[
+				"se",
+				"sentence"
+			],
+			[
+				"sen",
+				"sentences"
+			],
+			[
+				"sent",
+				"sentence"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "warmUpExercise.m",
+			"settings":
+			{
+				"buffer_size": 509,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 376.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Add Repository"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #include <…>"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/temp/Downloads/machine-learning-ex1/ex1"
+	],
+	"file_history":
+	[
+		"/Users/temp/Desktop/costFunctionJ.matlab",
+		"/Users/temp/Desktop/squareThisNumber.m",
+		"/Users/temp/Dropbox/Blog-content/1.5. Tại sao nên học cấu trúc dữ liệu và các kiểu",
+		"/Users/temp/Downloads/tapkee-master/examples/minimal/minimal.cpp",
+		"/Users/temp/Desktop/C++ learn/helloWorld.cpp",
+		"/Users/temp/Google Drive/isoMap/IsomapR1/Isomap.m",
+		"/Users/temp/Google Drive/isoMap/paper/Guide-Instructions for Isomap code, Release 1",
+		"/Users/temp/Desktop/C++ learn/E: /Users/temp/Desktop/C++ learn/helloWorld.cpp",
+		"/Users/temp/Google Drive/isoMap/paper/isoMap_original.pdf",
+		"/Users/temp/Dropbox/isoMap/Problem Solving with Algorithms and Datta Structur",
+		"/Users/temp/Dropbox/isoMap/Guide-Instructions for Isomap code, Release 1",
+		"/Users/temp/Desktop/pSwDsA.py",
+		"/Users/temp/Library/Application Support/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/Users/temp/Desktop/DAS_C++",
+		"/Users/temp/Desktop/C++.sublime-build",
+		"/Users/temp/Desktop/MTP-ex.cpp",
+		"/Users/temp/Desktop/GPAcalculator.py",
+		"/Users/temp/Documents/tensorflow_demo/board.py",
+		"/Users/temp/Documents/TensorFlow_Tutorial/TF_T-Introduction.py",
+		"/Users/temp/Dropbox/StructuredLight/sL-Code/#ref_codedlight_demo/readme.txt",
+		"/Users/temp/Documents/MATLAB/Binh_code/main_refine.m",
+		"/Users/temp/Documents/MATLAB/Binh_code/creat_symbol.m",
+		"/Users/temp/Dropbox/StructuredLight/sL-Code/Binh_code/bwimg.m",
+		"/Users/temp/Dropbox/StructuredLight/sL-Code/Binh_code/rnn_tensorflow.py",
+		"/Users/temp/Dropbox/StructuredLight/sL-Code/Binh_code/main_refine.m",
+		"/Users/temp/Dropbox/StructuredLight/sL-Code/Binh_code/main.m",
+		"/Users/temp/Dropbox/StructuredLight/sL-Code/#ref_codedlight_demo/2.py",
+		"/Users/temp/Dropbox/StructuredLight/sL-Code/#ref_codedlight_demo/1.py",
+		"/Users/temp/Dropbox/StructuredLight/sL-Code/#ref_codedlight_demo/lsplane.m",
+		"/Users/temp/Documents/LPtHw/ex9.py",
+		"/Users/temp/Documents/LPtHw/ex8.py",
+		"/Users/temp/Documents/LPtHw/ex7.py",
+		"/Users/temp/Documents/LPtHw/ex6.py",
+		"/Users/temp/Documents/LPtHw/ex5.py",
+		"/Users/temp/Documents/LPtHw/ex4.py",
+		"/Users/temp/Documents/DataStructures&Algorithms/Udacity-Technical_Interview/1.List-based_Collections-Linked_List.py",
+		"/Users/temp/Documents/LPtHw/ex1.py",
+		"/Users/temp/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/temp/Documents/Coursera.ML/Coursera.ML.matlab",
+		"/Users/temp/Documents/ud120-projects/README.md",
+		"/Users/temp/Desktop/SA.py",
+		"/Users/temp/Desktop/Coursera.ML.matlab",
+		"/Users/temp/Desktop/test",
+		"/Users/temp/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"y.coords{",
+			"y.coords",
+			"cell array",
+			"cell",
+			"{",
+			"o",
+			"feature",
+			" 0 ",
+			"0 ",
+			"0",
+			"11",
+			"0"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"Orange\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/temp/Downloads/machine-learning-ex1/ex1"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "warmUpExercise.m",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 509,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								485,
+								485
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 167.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Downloads/tapkee-master/examples/minimal/minimal.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 184.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

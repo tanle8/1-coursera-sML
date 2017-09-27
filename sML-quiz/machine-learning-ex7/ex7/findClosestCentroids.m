@@ -22,6 +22,29 @@ idx = zeros(size(X,1), 1);
 %
 
 
+m = size(X,1)
+
+
+
+for i = 1:m
+    
+    % Create an 1 by K zero matrix to store distance value of is and centroids
+    distances = zeros(1,K);
+    
+    % With each example i in example set, calculate the distance between i and each
+    % centroid of all K centroids we have.
+    for j = 1:K
+        distances(1,j) = sqrt(sum((X(i,:)-centroids(j,:)).^2));
+    end
+    
+    % Contains the index of the centroid closest to example i.
+    % Find the indices of the minimum values of `distance` and
+    % returns them in output vector `C`. 
+    [d, C] = min(distances);
+   
+    % Vector C contains the index of the centroids.
+    idx(i,1) = C;
+end
 
 
 

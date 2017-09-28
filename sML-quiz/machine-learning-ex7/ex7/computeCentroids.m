@@ -26,6 +26,25 @@ centroids = zeros(K, n);
 % Note: You can use a for-loop over the centroids to compute this.
 %
 
+% For each k cluster in all K clusters.
+for k = 1:K
+    c_k = 0;
+    sum_x = zeros(n, 1);
+    
+    % For each example in matrix X, check which cluster this example is
+    % belonged to and gather its values (cordinates).
+    for i = 1:m
+        if(idx(i) == k)
+            sum_x = sum_x + X(i, :)';
+            c_k = c_k + 1;
+        end
+    end
+    
+    % Centroids matrix contains the mean of all data points 
+    % assigned to each cluster.
+    centroids(k, :) = ((1/c_k)*sum_x)';
+end
+        
 
 
 

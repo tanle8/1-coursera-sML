@@ -24,11 +24,11 @@ S = zeros(n);
 % Compute the covariance matrix.
 cov = (1/m)*(X'*X);
 
-% Compute the principal components using SVD function with covariance
-% matrix from previous step.
-% U contains the principal components,
-% S contains a diagonal matrix.
+% Compute the principal components using SVD function with t.
 [U, S, V] = svd(cov);
+
+
+
 
 
 

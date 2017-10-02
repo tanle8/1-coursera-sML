@@ -13,6 +13,11 @@
     A probability distribution is a function that gives the probability of different possible outcomes.
     [Link to wikipedia article](https://en.wikipedia.org/wiki/Probability_distribution)
 
+-   `Standard Deviation`
+    The standard deviation is a number that quantifies the amount of variation or dispersion of a set of values.
+    Intuitively, a quantity with a low standard deviation tends to stick close to its average (or expected value)
+    [Link to wikipedia article](https://en.wikipedia.org/wiki/Standard_deviation)
+
 -   `Supervised Learning`
     Supervised learning is the machine learning task of learning a ways to map input signals to output values by training a model on a set of training examples where each example is a pair consisting of an input and a desired output value (the label).
     [Link to wikipedia article](https://en.wikipedia.org/wiki/Supervised_learning)
@@ -25,7 +30,13 @@
 
 ## Density Estimation
 ### Problem Motivation
+![Anomaly detection example](/image/w9-1-1.png)
+![Density Estimation](/image/w9-1-2.png)
+![Anomaly detection example](/image/w9-1-3.png)
+
 ### Gaussian Distribution
+
+
 ### Algorithm
 
 ## Building an Anomaly Detection System

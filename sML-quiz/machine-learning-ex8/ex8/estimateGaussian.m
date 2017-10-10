@@ -22,9 +22,11 @@ sigma2 = zeros(n, 1);
 %
 
 
+mu = (1/m)*sum(X);
 
-
-
+% mu is an n x 1 vector, using repmat() function to create a new matrix
+% composed of copies of mu
+sigma2 = (1/m)*sum((X - repmat(mu, m, 1)).^2);
 
 
 

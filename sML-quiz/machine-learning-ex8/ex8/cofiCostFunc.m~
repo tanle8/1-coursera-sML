@@ -44,20 +44,19 @@ Theta_grad = zeros(size(Theta));
 % General Cost Function
 J_diff = (X*Theta' - Y).^2;
 
+% Cost function regularization
+Reg_cost = (lambda/2).*((sum(sum(Theta.^2))) + sum(sum((X.^2))));
+% Gradient regularization
+Reg_Xgrad = lambda*X;
+
+
 % Cost Function only where R(i,j) = 1
-J = sum(J_diff(R == 1))/2;
+J = sum(J_diff(R == 1))/2 + Reg_cost;
 
-% Compute X_grad and Theta_grad to 
-% X_grad = (X*Theta' - Y)*Theta;
-% Theta_grad = ;
-
-
-
-
-
-
-
-
+% Compute X_grad and Theta_grad, note: R matrix is used to set selected
+% entries to 0 - read implementation note (page 10).
+X_grad     = ((X*Theta' - Y) .* R) * Theta;
+Theta_grad = ((X*Theta' - Y) .* R)' * X;
 
 
 

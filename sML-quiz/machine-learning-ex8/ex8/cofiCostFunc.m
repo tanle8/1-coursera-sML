@@ -47,17 +47,10 @@ J_diff = (X*Theta' - Y).^2;
 % Cost Function only where R(i,j) = 1
 J = sum(J_diff(R == 1))/2;
 
-% 
-% X = ;
-% Theta = ;
-
-
-
-
-
-
-
-
+% Compute X_grad and Theta_grad, note: R matrix is used to set selected
+% entries to 0 - read implementation note (page 10).
+X_grad     = ((X*Theta' - Y) .* R) * Theta;
+Theta_grad = ((X*Theta' - Y) .* R)' * X;
 
 
 

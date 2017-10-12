@@ -41,15 +41,8 @@ Theta_grad = zeros(size(Theta));
 %
 
 
-% General Cost Function
-J_diff = (X*Theta' - Y).^2;
 
-% Cost Function only where R(i,j) = 1
-J = sum(J_diff(R == 1))/2;
-
-% 
-% X = ;
-% Theta = ;
+J
 
 
 

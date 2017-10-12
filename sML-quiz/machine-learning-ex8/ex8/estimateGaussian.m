@@ -21,7 +21,7 @@ sigma2 = zeros(n, 1);
 %               should contain variance of the i-th feature.
 %
 
-
+% 
 mu = (1/m)*sum(X);
 
 % mu is an n x 1 vector, using repmat() function to create a new matrix
